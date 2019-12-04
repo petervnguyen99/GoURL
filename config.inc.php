@@ -7,9 +7,9 @@ define('CAS_CA_FILE', '/etc/pki/tls/cert.pem');
 
 // MySQL connection info
 define('MYSQL_USER', 'root');
-define('MYSQL_PASS', '');
-define('MYSQL_DB',   'mysql');
-define('MYSQL_HOST', 'localhost');
+define('MYSQL_PASS', 'huskers97');
+define('MYSQL_DB',   'goURL');
+define('MYSQL_HOST', '127.0.0.1');
 
 // allow urls that begin with these strings
 $allowed_protocols = array('http://', 'https://');
